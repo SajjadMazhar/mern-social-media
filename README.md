@@ -35,27 +35,27 @@
     - add a new component to show all friends from search results
     - <s>disable suggestions on blur from input</s>
     - <s>notification count on new message</s>
-#   - <s>add user Avatar to desktop navbar with dropdown:</s>
-#       - profile settings
-#       - help
-#       - <s>logout</s>
-#   - <s>update mobile navbar with icons</s>
+    - <s>add user Avatar to desktop navbar with dropdown:</s>
+        - profile settings
+        - help
+        - <s>logout</s>
+    - <s>update mobile navbar with icons</s>
 
 - Profile page
     - <s>fix reload problem</s>
     - add social media links to the social media icons
 
-# - User widget
-#     - only go to profile page if user name or avatar is clicked
-#     - update friends count when a new friend is added or unfriended
-#     - click on friends count to see all friends
-#     - click on ManageAccountsOutlinedIcon to go to profile settings
+  - User widget
+      - only go to profile page if user name or avatar is clicked
+      - update friends count when a new friend is added or unfriended
+      - click on friends count to see all friends
+      - click on ManageAccountsOutlinedIcon to go to profile settings
 
-# - profile settings
-#     - change profile picture
-#     - change location
-#     - change occupation
-#     - add birthday
-#     - add gender
+  - profile settings
+      - change profile picture
+      - change location
+      - change occupation
+      - add birthday
+      - add gender
 
-# - help page
+  - help page
