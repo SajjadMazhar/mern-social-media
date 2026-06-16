@@ -152,10 +152,11 @@ const getOnlineUser = (userId)=>{
 
 /* MONGOOSE SETUP */
 const PORT = env.PORT || 3001;
+mongoose.set('strictQuery', true)
 mongoose
   .connect(env.mongoURI, {
     useNewUrlParser: true,
-    useUnifiedTopology: true
+    useUnifiedTopology: true,
   })
   .then(() => {
     server.listen(PORT, () => console.log(`Server Port: ${PORT}`));
